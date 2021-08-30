@@ -1,9 +1,7 @@
 ### Olá! Eu sou a Maíra Tailor 😊
 
-
-- 🔭 Atualmente eu trabalho como Assistente Editorial
-- 🌱 Estou estudando para ser uma futura Technical Writer
-- 📚 Sou Bacharel em Letras
+- 🌱 Futura Technical Writer
+- 📚 Bacharel em Letras
 - 📫 Você pode falar comigo através do meu e-mail: mairatailor@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Rei Leão, Chaves, Harry Potter, Star Wars, The Fresh Prince of Bel-Air e Friends moldaram meu caráter
