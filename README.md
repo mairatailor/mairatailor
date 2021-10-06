@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Maíra Tailor 😊
 
-- 🌱 Futura Technical Writer
+- 🌱 Technical Writer
+- 💻 Social Media na Comunidade Technical Writing BR 
 - 📚 Bacharel em Letras
 - 📫 Você pode falar comigo através do meu e-mail: mairatailor@gmail.com
 - 😄 Pronomes: ela/dela
